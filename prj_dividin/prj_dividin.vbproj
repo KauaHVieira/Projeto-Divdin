@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04795CC1-52DE-4F78-984F-75E2DABEAF70}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>prj_dividin.My.MyApplication</StartupObject>
+    <RootNamespace>prj_dividin</RootNamespace>
+    <AssemblyName>prj_dividin</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>prj_dividin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>prj_dividin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>packages\BouncyCastle.Cryptography.2.6.2\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\Aluno\Downloads\6UJZE5CVULTCQ9KEEPUF9GRIEKEDDJ\FRAMEWORK VB.NET\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.32.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.32.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>6UJZE5CVULTCQ9KEEPUF9GRIEKEDDJ\FRAMEWORK VB.NET\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.3.8\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.3.8\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=9.5.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.9.5.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Configuration.ConfigurationManager.8.0.0\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="ZstdSharp, Version=0.8.6.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>packages\ZstdSharp.Port.0.8.6\lib\net462\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adicionar_despesas.Designer.vb">
+      <DependentUpon>adicionar_despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adicionar_despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adicionar_despesas_divisao.Designer.vb">
+      <DependentUpon>adicionar_despesas_divisao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adicionar_despesas_divisao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adicionar_despesas_grupo.Designer.vb">
+      <DependentUpon>adicionar_despesas_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adicionar_despesas_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adicionar_despesas_pessoal.Designer.vb">
+      <DependentUpon>adicionar_despesas_pessoal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adicionar_despesas_pessoal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adicionar_membro.Designer.vb">
+      <DependentUpon>adicionar_membro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adicionar_membro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastro.Designer.vb">
+      <DependentUpon>cadastro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="criacao_grupo.Designer.vb">
+      <DependentUpon>criacao_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="criacao_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="despesas.Designer.vb">
+      <DependentUpon>despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editar_despesas_divisao.Designer.vb">
+      <DependentUpon>editar_despesas_divisao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editar_despesas_divisao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editar_despesas_grupo.Designer.vb">
+      <DependentUpon>editar_despesas_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editar_despesas_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editar_despesas_pagamento.Designer.vb">
+      <DependentUpon>editar_despesas_pagamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editar_despesas_pagamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editar_despesas_pessoal.Designer.vb">
+      <DependentUpon>editar_despesas_pessoal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editar_despesas_pessoal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editar_grupo.Designer.vb">
+      <DependentUpon>editar_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editar_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grupos.Designer.vb">
+      <DependentUpon>grupos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grupos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grupos_criados_usuario.Designer.vb">
+      <DependentUpon>grupos_criados_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grupos_criados_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grupo_usuario.Designer.vb">
+      <DependentUpon>grupo_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grupo_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="membros_grupo.Designer.vb">
+      <DependentUpon>membros_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="membros_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_usuario.Designer.vb">
+      <DependentUpon>menu_usuario.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mod_Geral.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pesquisa_usuario.Designer.vb">
+      <DependentUpon>pesquisa_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pesquisa_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quitar_despesa.Designer.vb">
+      <DependentUpon>quitar_despesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="quitar_despesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quitar_despesa_grupo.Designer.vb">
+      <DependentUpon>quitar_despesa_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="quitar_despesa_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="remover_despesas.Designer.vb">
+      <DependentUpon>remover_despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="remover_despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saldo_geral_despesas.Designer.vb">
+      <DependentUpon>saldo_geral_despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="saldo_geral_despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saldo_geral_grupo.Designer.vb">
+      <DependentUpon>saldo_geral_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="saldo_geral_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selecao_editar_despesa.Designer.vb">
+      <DependentUpon>selecao_editar_despesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selecao_editar_despesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selecao_quitar_despesas.Designer.vb">
+      <DependentUpon>selecao_quitar_despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selecao_quitar_despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selecao_quitar_despesas_grupo.Designer.vb">
+      <DependentUpon>selecao_quitar_despesas_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selecao_quitar_despesas_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tipo_despesa.Designer.vb">
+      <DependentUpon>tipo_despesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tipo_despesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visualizar_despesas.Designer.vb">
+      <DependentUpon>visualizar_despesas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="visualizar_despesas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="adicionar_despesas.resx">
+      <DependentUpon>adicionar_despesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adicionar_despesas_divisao.resx">
+      <DependentUpon>adicionar_despesas_divisao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adicionar_despesas_grupo.resx">
+      <DependentUpon>adicionar_despesas_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adicionar_despesas_pessoal.resx">
+      <DependentUpon>adicionar_despesas_pessoal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adicionar_membro.resx">
+      <DependentUpon>adicionar_membro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastro.resx">
+      <DependentUpon>cadastro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="criacao_grupo.resx">
+      <DependentUpon>criacao_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="despesas.resx">
+      <DependentUpon>despesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editar_despesas_divisao.resx">
+      <DependentUpon>editar_despesas_divisao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editar_despesas_grupo.resx">
+      <DependentUpon>editar_despesas_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editar_despesas_pagamento.resx">
+      <DependentUpon>editar_despesas_pagamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editar_despesas_pessoal.resx">
+      <DependentUpon>editar_despesas_pessoal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editar_grupo.resx">
+      <DependentUpon>editar_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grupos.resx">
+      <DependentUpon>grupos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grupos_criados_usuario.resx">
+      <DependentUpon>grupos_criados_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grupo_usuario.resx">
+      <DependentUpon>grupo_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="membros_grupo.resx">
+      <DependentUpon>membros_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu_usuario.resx">
+      <DependentUpon>menu_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesquisa_usuario.resx">
+      <DependentUpon>pesquisa_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quitar_despesa.resx">
+      <DependentUpon>quitar_despesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quitar_despesa_grupo.resx">
+      <DependentUpon>quitar_despesa_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="remover_despesas.resx">
+      <DependentUpon>remover_despesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saldo_geral_despesas.resx">
+      <DependentUpon>saldo_geral_despesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saldo_geral_grupo.resx">
+      <DependentUpon>saldo_geral_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selecao_editar_despesa.resx">
+      <DependentUpon>selecao_editar_despesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selecao_quitar_despesas.resx">
+      <DependentUpon>selecao_quitar_despesas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selecao_quitar_despesas_grupo.resx">
+      <DependentUpon>selecao_quitar_despesas_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tipo_despesa.resx">
+      <DependentUpon>tipo_despesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visualizar_despesas.resx">
+      <DependentUpon>visualizar_despesas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

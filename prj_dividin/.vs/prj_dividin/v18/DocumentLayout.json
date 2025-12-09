@@ -1,0 +1,1034 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:saldo_geral_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_quitar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:quitar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\mod_geral.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:mod_geral.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_quitar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:visualizar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:membros_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:membros_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:menu_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:visualizar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_membro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_membro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_editar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_editar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_quitar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:selecao_quitar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:remover_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:remover_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:pesquisa_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:pesquisa_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|d:\\humbertosysteminf\\projetodividin\\projetodividin\\prj_dividin\\grupos_criados_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupos_criados_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupo_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupo_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:menu_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:cadastro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_pagamento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:tipo_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:tipo_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:quitar_despesa_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:quitar_despesa_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:quitar_despesa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:saldo_geral_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:criacao_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:criacao_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos_criados_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupos_criados_usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:grupos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_divisao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_pagamento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:saldo_geral_despesas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:saldo_geral_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_despesas_pessoal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|prj_dividin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:adicionar_despesas_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04795CC1-52DE-4F78-984F-75E2DABEAF70}|prj_dividin.vbproj|solutionrelative:editar_grupo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "editar_despesas_pessoal.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb",
+              "RelativeDocumentMoniker": "editar_despesas_pessoal.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb [Design]",
+              "RelativeToolTip": "editar_despesas_pessoal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:39.891Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "adicionar_despesas_pessoal.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_pessoal.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb [Design]",
+              "RelativeToolTip": "adicionar_despesas_pessoal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:37:42.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quitar_despesa.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb",
+              "RelativeDocumentMoniker": "quitar_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb [Design]",
+              "RelativeToolTip": "quitar_despesa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T14:50:32.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "selecao_quitar_despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb",
+              "RelativeDocumentMoniker": "selecao_quitar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb [Design]",
+              "RelativeToolTip": "selecao_quitar_despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T14:46:50.532Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saldo_geral_despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb",
+              "RelativeDocumentMoniker": "saldo_geral_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb [Design]",
+              "RelativeToolTip": "saldo_geral_despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T13:24:58.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mod_Geral.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\Mod_Geral.vb",
+              "RelativeDocumentMoniker": "Mod_Geral.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\Mod_Geral.vb",
+              "RelativeToolTip": "Mod_Geral.vb",
+              "ViewState": "AgIAAHcBAAAAAAAAAADwv4EBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-23T17:04:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "selecao_quitar_despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb",
+              "RelativeDocumentMoniker": "selecao_quitar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas.vb",
+              "RelativeToolTip": "selecao_quitar_despesas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T14:47:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "membros_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb",
+              "RelativeDocumentMoniker": "membros_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb [Design]",
+              "RelativeToolTip": "membros_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:26:11.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "visualizar_despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb",
+              "RelativeDocumentMoniker": "visualizar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb",
+              "RelativeToolTip": "visualizar_despesas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T11:06:42.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "membros_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb",
+              "RelativeDocumentMoniker": "membros_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\membros_grupo.vb",
+              "RelativeToolTip": "membros_grupo.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-23T18:51:43.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "menu_usuario.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb",
+              "RelativeDocumentMoniker": "menu_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb [Design]",
+              "RelativeToolTip": "menu_usuario.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:26:09.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "visualizar_despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb",
+              "RelativeDocumentMoniker": "visualizar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\visualizar_despesas.vb [Design]",
+              "RelativeToolTip": "visualizar_despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:19:22.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adicionar_membro.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb",
+              "RelativeDocumentMoniker": "adicionar_membro.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb",
+              "RelativeToolTip": "adicionar_membro.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA6wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T17:57:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adicionar_membro.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb",
+              "RelativeDocumentMoniker": "adicionar_membro.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_membro.vb [Design]",
+              "RelativeToolTip": "adicionar_membro.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T17:57:17.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "selecao_editar_despesa.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb",
+              "RelativeDocumentMoniker": "selecao_editar_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb",
+              "RelativeToolTip": "selecao_editar_despesa.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T11:03:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "selecao_editar_despesa.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb",
+              "RelativeDocumentMoniker": "selecao_editar_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_editar_despesa.vb [Design]",
+              "RelativeToolTip": "selecao_editar_despesa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:22:41.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "selecao_quitar_despesas_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "selecao_quitar_despesas_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb",
+              "RelativeToolTip": "selecao_quitar_despesas_grupo.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T16:40:58.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "selecao_quitar_despesas_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "selecao_quitar_despesas_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\selecao_quitar_despesas_grupo.vb [Design]",
+              "RelativeToolTip": "selecao_quitar_despesas_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T16:39:10.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "remover_despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb",
+              "RelativeDocumentMoniker": "remover_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb",
+              "RelativeToolTip": "remover_despesas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T17:47:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "remover_despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb",
+              "RelativeDocumentMoniker": "remover_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\remover_despesas.vb [Design]",
+              "RelativeToolTip": "remover_despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:24:30.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "pesquisa_usuario.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb",
+              "RelativeDocumentMoniker": "pesquisa_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb",
+              "RelativeToolTip": "pesquisa_usuario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T16:34:15.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "pesquisa_usuario.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb",
+              "RelativeDocumentMoniker": "pesquisa_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\pesquisa_usuario.vb [Design]",
+              "RelativeToolTip": "pesquisa_usuario.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T10:59:49.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "grupos_criados_usuario.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos_criados_usuario.vb",
+              "RelativeDocumentMoniker": "grupos_criados_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos_criados_usuario.vb [Design]",
+              "RelativeToolTip": "grupos_criados_usuario.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:26:54.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "grupo_usuario.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb",
+              "RelativeDocumentMoniker": "grupo_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb",
+              "RelativeToolTip": "grupo_usuario.vb",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAnwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T10:21:39.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "grupo_usuario.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb",
+              "RelativeDocumentMoniker": "grupo_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupo_usuario.vb [Design]",
+              "RelativeToolTip": "grupo_usuario.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:30:18.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb",
+              "RelativeToolTip": "login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA6wAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T11:13:51.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb",
+              "RelativeDocumentMoniker": "login.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\login.vb [Design]",
+              "RelativeToolTip": "login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:26:53.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "menu_usuario.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb",
+              "RelativeDocumentMoniker": "menu_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\menu_usuario.vb",
+              "RelativeToolTip": "menu_usuario.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAIA8wCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T10:21:25.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cadastro.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb",
+              "RelativeDocumentMoniker": "cadastro.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb",
+              "RelativeToolTip": "cadastro.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T10:17:07.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cadastro.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb",
+              "RelativeDocumentMoniker": "cadastro.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\cadastro.vb [Design]",
+              "RelativeToolTip": "cadastro.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:45.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "editar_despesas_pagamento.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb",
+              "RelativeDocumentMoniker": "editar_despesas_pagamento.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb [Design]",
+              "RelativeToolTip": "editar_despesas_pagamento.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:41.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "editar_despesas_divisao.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb",
+              "RelativeDocumentMoniker": "editar_despesas_divisao.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb [Design]",
+              "RelativeToolTip": "editar_despesas_divisao.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:42.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "tipo_despesa.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb",
+              "RelativeDocumentMoniker": "tipo_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb",
+              "RelativeToolTip": "tipo_despesa.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-02T13:51:34.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tipo_despesa.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb",
+              "RelativeDocumentMoniker": "tipo_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\tipo_despesa.vb [Design]",
+              "RelativeToolTip": "tipo_despesa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:22:40.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb",
+              "RelativeDocumentMoniker": "despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb",
+              "RelativeToolTip": "despesas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T11:32:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb",
+              "RelativeDocumentMoniker": "despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\despesas.vb [Design]",
+              "RelativeToolTip": "despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:43.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "quitar_despesa_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb",
+              "RelativeDocumentMoniker": "quitar_despesa_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb",
+              "RelativeToolTip": "quitar_despesa_grupo.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T16:47:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "quitar_despesa_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb",
+              "RelativeDocumentMoniker": "quitar_despesa_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa_grupo.vb [Design]",
+              "RelativeToolTip": "quitar_despesa_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T16:46:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "quitar_despesa.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb",
+              "RelativeDocumentMoniker": "quitar_despesa.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\quitar_despesa.vb",
+              "RelativeToolTip": "quitar_despesa.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T14:53:00.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "saldo_geral_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb",
+              "RelativeDocumentMoniker": "saldo_geral_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb [Design]",
+              "RelativeToolTip": "saldo_geral_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T15:59:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "adicionar_despesas_pessoal.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_pessoal.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_pessoal.vb",
+              "RelativeToolTip": "adicionar_despesas_pessoal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T23:50:26.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "adicionar_despesas_divisao.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_divisao.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb [Design]",
+              "RelativeToolTip": "adicionar_despesas_divisao.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:37:44.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "adicionar_despesas.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb [Design]",
+              "RelativeToolTip": "adicionar_despesas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:37:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "criacao_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb",
+              "RelativeDocumentMoniker": "criacao_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb",
+              "RelativeToolTip": "criacao_grupo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-23T19:16:31.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "criacao_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb",
+              "RelativeDocumentMoniker": "criacao_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\criacao_grupo.vb [Design]",
+              "RelativeToolTip": "criacao_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:36:44.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "grupos.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb",
+              "RelativeDocumentMoniker": "grupos.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb [Design]",
+              "RelativeToolTip": "grupos.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T23:28:27.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "editar_despesas_divisao.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb",
+              "RelativeDocumentMoniker": "editar_despesas_divisao.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_divisao.vb",
+              "RelativeToolTip": "editar_despesas_divisao.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T16:45:50.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "editar_despesas_pagamento.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb",
+              "RelativeDocumentMoniker": "editar_despesas_pagamento.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pagamento.vb",
+              "RelativeToolTip": "editar_despesas_pagamento.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-24T18:04:29.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "adicionar_despesas_divisao.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_divisao.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_divisao.vb",
+              "RelativeToolTip": "adicionar_despesas_divisao.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-02T13:56:10.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "adicionar_despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas.vb",
+              "RelativeToolTip": "adicionar_despesas.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T10:30:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "saldo_geral_despesas.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb",
+              "RelativeDocumentMoniker": "saldo_geral_despesas.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_despesas.vb",
+              "RelativeToolTip": "saldo_geral_despesas.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T13:25:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "saldo_geral_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb",
+              "RelativeDocumentMoniker": "saldo_geral_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\saldo_geral_grupo.vb",
+              "RelativeToolTip": "saldo_geral_grupo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-07T16:26:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "editar_despesas_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "editar_despesas_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb",
+              "RelativeToolTip": "editar_despesas_grupo.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T17:37:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "editar_despesas_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "editar_despesas_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_grupo.vb [Design]",
+              "RelativeToolTip": "editar_despesas_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T17:35:48.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "editar_despesas_pessoal.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb",
+              "RelativeDocumentMoniker": "editar_despesas_pessoal.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_despesas_pessoal.vb",
+              "RelativeToolTip": "editar_despesas_pessoal.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-05T18:13:25.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "prj_dividin",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\prj_dividin.vbproj",
+              "RelativeDocumentMoniker": "prj_dividin.vbproj",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\prj_dividin.vbproj",
+              "RelativeToolTip": "prj_dividin.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-23T18:04:35.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-05T17:22:54.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "adicionar_despesas_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_grupo.vb",
+              "ToolTip": "D:\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T16:27:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "editar_grupo.vb [Design]",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_grupo.vb",
+              "RelativeDocumentMoniker": "editar_grupo.vb",
+              "ToolTip": "D:\\ProjetoDividin\\prj_dividin\\editar_grupo.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ProjetoDividin\\prj_dividin\\editar_grupo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T20:19:27.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "grupos_criados_usuario.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos_criados_usuario.vb",
+              "RelativeDocumentMoniker": "grupos_criados_usuario.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos_criados_usuario.vb",
+              "RelativeToolTip": "grupos_criados_usuario.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-17T12:17:42.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "editar_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_grupo.vb",
+              "RelativeDocumentMoniker": "editar_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\editar_grupo.vb",
+              "RelativeToolTip": "editar_grupo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T20:19:56.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "adicionar_despesas_grupo.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb",
+              "RelativeDocumentMoniker": "adicionar_despesas_grupo.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\adicionar_despesas_grupo.vb",
+              "RelativeToolTip": "adicionar_despesas_grupo.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAawEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-06T16:33:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "grupos.vb",
+              "DocumentMoniker": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb",
+              "RelativeDocumentMoniker": "grupos.vb",
+              "ToolTip": "D:\\HumbertoSystemInf\\ProjetoDividin\\ProjetoDividin\\prj_dividin\\grupos.vb",
+              "RelativeToolTip": "grupos.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-13T10:49:09.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
