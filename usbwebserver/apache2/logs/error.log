@@ -2,3 +2,4 @@
 [Fri Dec 12 14:50:53.388128 2025] [mpm_winnt:notice] [pid 14528:tid 764] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
 [Fri Dec 12 14:50:53.388128 2025] [core:notice] [pid 14528:tid 764] AH00094: Command line: 'C:\\Users\\iceho\\Downloads\\ProjetoDividin\\Projeto-Divdin\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/iceho/Downloads/ProjetoDividin/Projeto-Divdin/usbwebserver/apache2'
 [Fri Dec 12 14:50:53.427940 2025] [mpm_winnt:notice] [pid 14528:tid 764] AH00418: Parent: Created child process 17672
+[Fri Dec 12 14:50:55.165526 2025] [mpm_winnt:notice] [pid 17672:tid 860] AH00354: Child: Starting 64 worker threads.
