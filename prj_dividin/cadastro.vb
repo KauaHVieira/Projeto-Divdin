@@ -33,7 +33,7 @@
 
     Private Sub link_login_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles link_login.LinkClicked
         Try
-            login.ShowDialog()
+            login.Show()
             Me.Close()
         Catch ex As Exception
             MsgBox("Erro ao Executar!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
